@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Javier Heras-Domingo"
 excerpt: "About me"
 header:
   image: teaser.png
