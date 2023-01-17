@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Javier Heras-Domingo"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Researcher at Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Postdoctoral Researcher at Institute of Chemical Research of Catalonia (ICIQ)"
+  location         : "Tarragona, Spain"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uMQsv2EAAAAJ&hl=es"
-  email            : "jherasdo@andrew.cmu.edu"
+  email            : "jheras@iciq.es"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
