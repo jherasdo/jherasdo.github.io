@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Javier Heras-Domingo"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Researcher at Institute of Chemical Research of Catalonia (ICIQ)"
-  location         : "Tarragona, Spain"
+  bio              : "Lecturer at the University of Barcelona (UB)"
+  location         : "Barcelona, Spain"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uMQsv2EAAAAJ&hl=es"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jherasdo/"
   orcid            : "https://orcid.org/0000-0002-4322-3146"
   pinterest        :
   soundcloud       :
